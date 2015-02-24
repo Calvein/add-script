@@ -1,0 +1,20 @@
+{
+  "name": "add-script",
+  "version": "1.0.1",
+  "description": "A module that takes a url and a callback that will be run when the script is loaded",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Calvein/add-script.git"
+  },
+  "keywords": [
+    "script",
+    "ajax"
+  ],
+  "author": "François Robichet <@calvein>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Calvein/add-script/issues"
+  },
+  "homepage": "https://github.com/Calvein/add-script"
+}
